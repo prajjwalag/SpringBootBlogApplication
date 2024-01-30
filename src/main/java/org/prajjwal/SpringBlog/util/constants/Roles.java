@@ -1,4 +1,4 @@
-package org.studyeasy.SpringBlog.util.constants;
+package org.prajjwal.SpringBlog.util.constants;
 
 public enum Roles {
     USER("ROLE_USER"),ADMIN("ROLE_ADMIN"),EDITOR("ROLE_EDITOR");

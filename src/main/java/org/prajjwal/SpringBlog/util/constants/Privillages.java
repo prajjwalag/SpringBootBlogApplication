@@ -1,4 +1,4 @@
-package org.studyeasy.SpringBlog.util.constants;
+package org.prajjwal.SpringBlog.util.constants;
 
 public enum Privillages {
     RESET_ANY_USER_PASSWORD(1l, "RESET_ANY_USER_PASSWORD"),

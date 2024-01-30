@@ -1,4 +1,4 @@
-package org.studyeasy.SpringBlog.util.email;
+package org.prajjwal.SpringBlog.util.email;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package org.studyeasy.SpringBlog.util;
+package org.prajjwal.SpringBlog.util;
 
 import java.io.File;
 
